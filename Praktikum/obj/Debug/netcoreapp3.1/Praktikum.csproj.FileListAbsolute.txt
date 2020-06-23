@@ -1,0 +1,11 @@
+E:\Pemograman\Praktikum\Praktikum\obj\Debug\netcoreapp3.1\Praktikum.csprojAssemblyReference.cache
+E:\Pemograman\Praktikum\Praktikum\obj\Debug\netcoreapp3.1\Praktikum.AssemblyInfoInputs.cache
+E:\Pemograman\Praktikum\Praktikum\obj\Debug\netcoreapp3.1\Praktikum.AssemblyInfo.cs
+E:\Pemograman\Praktikum\Praktikum\bin\Debug\netcoreapp3.1\Praktikum.exe
+E:\Pemograman\Praktikum\Praktikum\bin\Debug\netcoreapp3.1\Praktikum.deps.json
+E:\Pemograman\Praktikum\Praktikum\bin\Debug\netcoreapp3.1\Praktikum.runtimeconfig.json
+E:\Pemograman\Praktikum\Praktikum\bin\Debug\netcoreapp3.1\Praktikum.runtimeconfig.dev.json
+E:\Pemograman\Praktikum\Praktikum\bin\Debug\netcoreapp3.1\Praktikum.dll
+E:\Pemograman\Praktikum\Praktikum\bin\Debug\netcoreapp3.1\Praktikum.pdb
+E:\Pemograman\Praktikum\Praktikum\obj\Debug\netcoreapp3.1\Praktikum.dll
+E:\Pemograman\Praktikum\Praktikum\obj\Debug\netcoreapp3.1\Praktikum.pdb
