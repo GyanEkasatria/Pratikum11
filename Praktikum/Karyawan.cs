@@ -8,6 +8,7 @@ namespace Praktikum
     {
         public string NIK { get; set; }
         public string NAMA { get; set; }
+        public string JenisKaryawan { get; set; }
         public abstract double GAJI();
     }
 }
